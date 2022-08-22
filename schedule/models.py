@@ -10,3 +10,4 @@ class Agency(models.Model):
     agency_lang = models.CharField(max_length=25)
     agency_phone = models.CharField(max_length=30)
     agency_fare_url = models.URLField()
+
