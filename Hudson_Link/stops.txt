@@ -1,0 +1,30 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+14PRW,1015,"Nanuet Exit 14 Park & Ride",,41.103250,-74.028601,,,0,,0
+AIRME,1018,"Airmont Road",,41.112661,-74.114081,,,0,,0
+AIRMW,1024,"Airmont Road",,41.112444,-74.114875,,,0,,0
+ARFRN,1001,"Downtown Nyack",,41.090971,-73.921347,,,0,,0
+ARFRS,1002,"Downtown Nyack",,41.090791,-73.921648,,,0,,0
+BR119,1003,"Tarrytown - Route 119",,41.064789,-73.862296,,,0,,0
+BRW287,1004,"Tarrytown - Route 119",,41.065925,-73.862547,,,0,,0
+ELIZST,1005,"Tarrytown - Elizabeth Street",,41.07514,-73.85882,,,0,,0
+ELZSTE,1030,"Tarrytown - Elizabeth Street",,41.074839,-73.858842,,,0,,0
+FRCLE,1006,"South Nyack",,41.083112,-73.922846,,,0,,0
+FRCLW,1007,"South Nyack",,41.083021,-73.922331,,,0,,0
+GAMA,1016,"White Plains - Main Street (Galleria)",,41.032294,-73.768034,,,0,,0
+HACHSU,1019,"Suffern - Hallett Place",,41.116723,-74.152063,,,0,,0
+HAFEWP,1022,"White Plains - Train Station (Ferris)",,41.033936,-73.774380,,,0,,0
+HAMCON,1025,"White Plains - Hamilton / EJ Conroy",,41.034436,-73.766393,,,0,,0
+MABAN,1026,"White Plains - Train Station (Main / Bank)",,41.031725,-73.774438,,,0,,0
+MABRO,1023,"White Plains - Broadway",,41.034024,-73.763481,,,0,,0
+MANYMO,1013,"Monsey - Park & Ride",,41.1063403,-74.0676399,,,0,,0
+MARCO,1017,"White Plains - Court St. (Martine)",,41.031132,-73.768178,,,0,,0
+NY59FE,1014,"Nanuet Exit 14 Park & Ride",,41.103097,-74.029572,,,0,,0
+NY59MN,1008,"Central Nyack - Mountainview Ave",,41.094389,-73.935717,,,0,,0
+NY59MS,1009,"Central Nyack - Mountainview Ave",,41.094266,-73.935803,,,0,,0
+NYPA,1029,"NYPA",,41.032261,-73.769807,,,0,,0
+PALILJ,1010,"Palisades Center - Lot J",,41.099735,-73.962760,,,0,,0
+PALIMA,1011,"Palisades Center (Macy's)",,41.095787,-73.953763,,,0,,0
+SPVAFR,1021,"Spring Valley - Train Station",,41.11171,-74.04401,,,0,,0
+TARRYT,1012,"Tarrytown - Train Station",,41.076187,-73.864685,,,0,,0
+WESTE,1027,"Westchester County Center",,41.036588,-73.779621,,,0,,0
+WESTW,1028,"Westchester County Center",,41.036906,-73.779548,,,0,,0

@@ -1,0 +1,8 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+H01,H01,"Suffern-Palisades Center",,3,,004D95,FFFFFF
+H01X,H01X,"Express Suffern-Tarrytown",,3,,004D95,FFFFFF
+H03,H03,"Monsey-White Plains",,3,,0088CE,FFFFFF
+H05,H05,"Palisades Center-White Plains",,3,,E18F19,FFFFFF
+H07,H07,"Palisades Center-Tarrytown",,3,,EFBF07,FFFFFF
+H07X,H07X,"Express Palisades Center-Tarrytown",,3,,EFBF07,FFFFFF
+SHTL,SHTL,"GMMCB Path SHTLtle",,3,,07EF32,FFFFFF

@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+LHTL,Lower Hudson Valley Transit,http://www.ridehudsonlink.com,America/New_York,en,(844)822-8920,http://www.ridehudsonlink.com/fares
