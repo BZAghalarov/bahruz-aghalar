@@ -1,0 +1,16 @@
+version: '3'
+services:
+  transportdb:
+    container_name: transportdb
+    image: postgres:13.3
+    restart: on-failure
+    volumes:
+      - ./db:/var/lib/postgresql/data
+    environment:
+      POSTGRES_DB: transportdb
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      PGDATA: /var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
